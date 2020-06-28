@@ -26,7 +26,7 @@ function SideBar() {
                     </div>
                     <div className="profile-usermenu">
                         <ul className="nav">
-                            <li className="active">
+                            <li className="">
                                 <Link to="/">
                                     <i className="glyphicon glyphicon-home"></i>
                                     About Me 

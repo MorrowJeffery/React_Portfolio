@@ -9,18 +9,18 @@ import Contact from './Components/Pages/Contact';
 function App() {
   return (
     <BrowserRouter>
-        <Switch>
           <div className="App">
             <div className="row profile">
               <SideBar/>
               <div className="col-md-9 0ffset-s3">
+              <Switch>
                 <Route exact path="/" component={AboutMe}/>
                 <Route exact path="/portfolio" component={Portfolio}/>
                 <Route exact path="/contact" component={Contact}/>
+                </Switch>
               </div>
             </div>
           </div>
-        </Switch>
       </BrowserRouter>
   );
 }
