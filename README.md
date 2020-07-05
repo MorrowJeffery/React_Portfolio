@@ -1,7 +1,5 @@
 # React_Portfolio
 
-# React_Portfolio
-
 This repository holds my current online portfolio created using react.
 
 The online portfolio has the following features:
