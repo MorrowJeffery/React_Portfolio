@@ -14,9 +14,9 @@ function App() {
                     <SideBar/>
                     <div className="col-md-9 0ffset-s3">
                         <Switch>
-                            <Route exact path="/" component={AboutMe}/>
-                            <Route exact path="/portfolio" component={Portfolio}/>
-                            <Route exact path="/contact" component={Contact}/>
+                            <Route exact path="/React_Portfolio" component={AboutMe}/>
+                            <Route exact path="/React_Portfolio/portfolio" component={Portfolio}/>
+                            <Route exact path="/React_Portfolio/contact" component={Contact}/>
                         </Switch>
                     </div>
                 </div>

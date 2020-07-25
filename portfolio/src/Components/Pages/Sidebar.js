@@ -36,19 +36,19 @@ function SideBar() {
                 <div className="profile-usermenu">
                     <ul className="nav">
                         <li className="">
-                            <Link to="/">
+                            <Link to="/React_Portfolio">
                                 <i className="glyphicon glyphicon-home"></i>
                                 About Me
                             </Link>
                         </li>
                         <li>
-                            <Link to="/portfolio">
+                            <Link to="/React_Portfolio/portfolio">
                                 <i className="glyphicon glyphicon-user"></i>
                                 Portfolio
                             </Link>
                         </li>
                         <li>
-                            <Link to="/contact">
+                            <Link to="/React_Portfolio/contact">
                                 <i className="glyphicon glyphicon-ok"></i>
                                 Contact Me
                             </Link>

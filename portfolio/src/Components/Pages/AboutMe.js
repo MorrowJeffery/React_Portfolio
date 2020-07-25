@@ -45,7 +45,7 @@ function AboutMe() {
                         {whatiknowtext}
                         <span>
                             Think there is something I should learn or that you wish I knew?
-                            <Link className="bold" to="/contact">
+                            <Link className="bold" to="/React_Portfolio/contact">
                                 {" "}
                                 Let me know here!</Link>
                         </span>
@@ -55,13 +55,13 @@ function AboutMe() {
                         {whyhiremetext}
                         <span>
                             Want more than just my word?
-                            <Link className="bold" to="/contact">
+                            <Link className="bold" to="/React_Portfolio/contact">
                                 {" "}
                                 Contact me {" "}
                             </Link>
                             and I would be happy to provide a list of references. Also feel 
                             free to check out some of my work {" "}
-                            <Link className="bold" to="/portfolio">
+                            <Link className="bold" to="/React_Portfolio/portfolio">
                                 Here
                             </Link>
                             .
