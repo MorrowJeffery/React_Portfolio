@@ -16,7 +16,7 @@ function getProjs() {
             projPic: "onIceApp",
             projDesc: "This is an app that facilitates lessons with users and their coaches/instructors" +
                     " by allowing users to reserve time slots",
-            key: 1
+            key: 4
         }, {
             projName: "Burger Solutions",
             projLink: "https://aqueous-mountain-03618.herokuapp.com/",
@@ -39,7 +39,12 @@ function Portfolio() {
     const projects = getProjs();
     return (
         <div className="profile-content">
-            <h1>Portfolio</h1>
+                        <div className="row">
+                <div className="col">
+                    <h1 className="content-header">Portfolio</h1>
+                    <hr/>
+                </div>
+            </div>
             <div className="profile-content-flex">
                 {projects.map((post) => (
                     <div className="card border border-primary" key={post.projName}>

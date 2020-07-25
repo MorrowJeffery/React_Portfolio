@@ -41,7 +41,12 @@ function Contact() {
 
             <section className="">
 
-                <h2 className="font-weight-bold text-center">Contact Me</h2>
+            <div className="row">
+                <div className="col">
+                    <h1 className="content-header">Contact Me</h1>
+                    <hr/>
+                </div>
+            </div>
                 <p className="text-center endheader">
                     For professional inquiries, feel free to contact me below. General response time
                     within 24 hour.
@@ -49,7 +54,7 @@ function Contact() {
 
                 <div className="row startofcontent">
 
-                    <div className="col-md-8">
+                    <div className="col-md-12">
                         <form id="contact-form" name="contact-form">
 
                             <div className="row">
@@ -128,24 +133,6 @@ function Contact() {
                         borderLeft: "2px",
                         borderColor: "black"
                     }}>
-                        <div className="infopanel">
-                            <ul className="list-unstyled">
-                                <li>
-                                    <i className="fa fa-map-marker fa-2x"></i>
-                                    <p>Citrus Heights, CA 95621, USA</p>
-                                </li>
-
-                                <li>
-                                    <i className="fa fa-phone mt-4 fa-2x"></i>
-                                    <p>916-718-7101</p>
-                                </li>
-
-                                <li>
-                                    <i className="fa fa-envelope mt-4 fa-2x"></i>
-                                    <p>MorrowJefferya@gmail.com</p>
-                                </li>
-                            </ul>
-                        </div>
                     </div>
 
                 </div>
