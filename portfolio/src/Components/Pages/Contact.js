@@ -67,6 +67,7 @@ function Contact() {
                                                 type="text"
                                                 id="name"
                                                 name="name"
+                                                autofocus="autofocus"
                                                 className="form-control"
                                                 required
                                                 onChange={e => setName(e.target.value)}/>
