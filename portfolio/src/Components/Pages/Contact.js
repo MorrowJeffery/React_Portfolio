@@ -21,6 +21,9 @@ function Contact() {
             from_name: name,
             reply_to: email
         })
+        setName("");
+        setEmail("");
+        setMessage("");
     }
 
     function sendFeedback(templateId, variables) {
@@ -69,6 +72,7 @@ function Contact() {
                                                 name="name"
                                                 autofocus="autofocus"
                                                 className="form-control"
+                                                value={name}
                                                 required
                                                 onChange={e => setName(e.target.value)}/>
                                         </label>
@@ -84,6 +88,7 @@ function Contact() {
                                                 id="email"
                                                 name="email"
                                                 className="form-control"
+                                                value={email}
                                                 required
                                                 onChange={e => setEmail(e.target.value)}/>
                                         </label>
@@ -105,6 +110,7 @@ function Contact() {
                                                 type="text"
                                                 id="message"
                                                 name="message"
+                                                value={message}
                                                 rows="3"
                                                 cols="70"
                                                 className="form-control"></textarea>
