@@ -18,13 +18,6 @@ function getProjs() {
                     " by allowing users to reserve time slots",
             key: 4
         }, {
-            projName: "Burger Solutions",
-            projLink: "https://aqueous-mountain-03618.herokuapp.com/",
-            projPic: "burgerApp",
-            projDesc: 'This is a super simple app that allows users to "Create" burgers they can then e' +
-                    'at. Just for fun.',
-            key: 2
-        }, {
             projName: "Date Night",
             projLink: "https://date-night-app-v1.herokuapp.com/",
             projPic: "DateNightlogo",
