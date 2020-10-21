@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.e3f73bec.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.be5a8396.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.be5a8396.chunk.js.map",
-    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.73c16ebd.js",
-    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.73c16ebd.js.map",
-    "static/js/2.a1af9a56.chunk.js": "/React_Portfolio/static/js/2.a1af9a56.chunk.js",
-    "static/js/2.a1af9a56.chunk.js.map": "/React_Portfolio/static/js/2.a1af9a56.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.835d06e4.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.835d06e4.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
+    "static/js/2.ed8ee3ca.chunk.js": "/React_Portfolio/static/js/2.ed8ee3ca.chunk.js",
+    "static/js/2.ed8ee3ca.chunk.js.map": "/React_Portfolio/static/js/2.ed8ee3ca.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.25674f9ea236c056c42a7df8c06e17a1.js": "/React_Portfolio/precache-manifest.25674f9ea236c056c42a7df8c06e17a1.js",
+    "precache-manifest.b73be641c0b86480aa22f1e514e33735.js": "/React_Portfolio/precache-manifest.b73be641c0b86480aa22f1e514e33735.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
     "static/css/main.e3f73bec.chunk.css.map": "/React_Portfolio/static/css/main.e3f73bec.chunk.css.map",
-    "static/js/2.a1af9a56.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.a1af9a56.chunk.js.LICENSE.txt",
+    "static/js/2.ed8ee3ca.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.ed8ee3ca.chunk.js.LICENSE.txt",
     "static/media/DateNightlogo.PNG": "/React_Portfolio/static/media/DateNightlogo.ed38981a.PNG",
     "static/media/ProfPic.png": "/React_Portfolio/static/media/ProfPic.d75131e5.png",
     "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.7a57374a.pdf",
@@ -20,9 +20,9 @@
     "static/media/onIceApp.PNG": "/React_Portfolio/static/media/onIceApp.a7005c46.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.73c16ebd.js",
-    "static/js/2.a1af9a56.chunk.js",
+    "static/js/runtime-main.446e9683.js",
+    "static/js/2.ed8ee3ca.chunk.js",
     "static/css/main.e3f73bec.chunk.css",
-    "static/js/main.be5a8396.chunk.js"
+    "static/js/main.835d06e4.chunk.js"
   ]
 }
