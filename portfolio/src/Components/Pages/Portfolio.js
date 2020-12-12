@@ -11,11 +11,10 @@ function getProjs() {
                     "ll as a fun fact about that day",
             key: 1
         }, {
-            projName: "On Ice",
-            projLink: "https://intense-falls-96725.herokuapp.com/",
-            projPic: "onIceApp",
-            projDesc: "This is an app that facilitates lessons with users and their coaches/instructors" +
-                    " by allowing users to reserve time slots",
+            projName: "Password Generator",
+            projLink: "https://morrowjeffery.github.io/Password-Generator/",
+            projPic: "passwordGenerator",
+            projDesc: "This is an app that allows user to generate a password based on the user criteria",
             key: 4
         }, {
             projName: "Date Night",
